@@ -83,3 +83,8 @@ graph TD
     I --> K[移動至 錄取 資料夾]
     J --> L[移動至 不錄取 資料夾]
 ```
+## 📸 執行截圖範例
+
+![工作流配置](/images/workflow1.png)
+![工作流配置](/images/workflow2.png)
+![google_sheet](/images/google_sheet.png)
